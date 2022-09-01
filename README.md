@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact - I sometimes **skydive** when I am not **climbing**.
 
-- 📫 How to reach me: Samuel.i.pariente@gmail.com or <a href="https://github.com/MartinHeinz/MartinHeinz">LinkedIn</a>
+- 📫 How to reach me: Samuel.i.pariente@gmail.com or <a href="linkedin.com/in/samuel-p-09423b135">LinkedIn</a>
 
 <br>
 
