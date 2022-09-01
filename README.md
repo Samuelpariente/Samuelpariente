@@ -37,7 +37,7 @@
     <img title="Microsoft Office" src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
     <img title="Spyder" src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
     <img title="PyCharm" src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
-    <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" width="130px"/>
+    <img title="Jupyter & Colab Notebook" src="https://github.com/Samuelpariente/Samuelpariente/blob/b9debd329d6146d412fe8cb4e5fee414c3db5e26/Images/jupyter_colab.png" width="60px"/>
     <img title="Selenium" src="https://github.com/Samuelpariente/Samuelpariente/blob/8c2a8610815c64aea3cd7a00512e488bcbd41e42/Images/selenium.png" width ="60px"/>
     <img title="Google cloud platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/>
     <img title="SolidWorks" src="https://img.icons8.com/color/144/000000/amazon-web-services.png" width="60px"/>
