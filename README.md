@@ -26,7 +26,7 @@
     <img title="Python" src="https://img.icons8.com/color/96/000000/python--v1.png" width="60px"/>
     <img title="SQL" src="https://img.icons8.com/nolan/64/sql.png" width="60px"/>
     <img title="R" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="60px"/>  
-    <img title="PowerBI" src="https://img.icons8.com/color/64/000000/power-bi.png" width="60px"/>
+    <img title="PowerBI" src="https://img.icons8.com/color/64/000000/power-bi.png" width="64px"/>
 </p>
 
 **Tools**
