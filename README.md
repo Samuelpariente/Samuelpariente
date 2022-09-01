@@ -38,9 +38,10 @@
     <img title="Spyder" src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
     <img title="PyCharm" src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
     <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" width="130px"/>
-    <img title="Jupyter & Colab Notebook" src="https://github.com/Samuelpariente/Samuelpariente/blob/8c2a8610815c64aea3cd7a00512e488bcbd41e42/Images/selenium.png" width ="60px"/>
-    <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
+    <img title="Selenium" src="https://github.com/Samuelpariente/Samuelpariente/blob/8c2a8610815c64aea3cd7a00512e488bcbd41e42/Images/selenium.png" width ="60px"/>
     <img title="Google cloud platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/>
+    <img title="SolidWorks" src="https://img.icons8.com/color/144/000000/amazon-web-services.png" width="60px"/>
+    <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
     <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     
     
@@ -53,11 +54,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelpariente&theme=dark&show_icons=true" alt="samuelpariente" />  
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpariente&layout=compact&theme=dark" alt="top-langs" />
-</p>
-
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a GitHub metric of which languages i have the most code on GitHub.*
-
+ 
 <p align="center"> 
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/samuelpariente/count.svg" />
