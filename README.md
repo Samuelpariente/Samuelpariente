@@ -39,8 +39,11 @@
     <img title="PyCharm" src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
     <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" width="130px"/>
     <img title="Jupyter & Colab Notebook" src="https://github.com/Samuelpariente/Samuelpariente/blob/8c2a8610815c64aea3cd7a00512e488bcbd41e42/Images/selenium.png" width ="60px"/>
-    <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
+    <img title="MySQL" src="https://icons8.com/icon/20774/google-cloud-platform" width="60px"/>
+    
+    <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
+    
     
     
 </p>
