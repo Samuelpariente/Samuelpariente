@@ -41,7 +41,6 @@
     <img title="Jupyter & Colab Notebook" src="https://github.com/Samuelpariente/Samuelpariente/blob/8c2a8610815c64aea3cd7a00512e488bcbd41e42/Images/selenium.png" width ="60px"/>
     <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
     <img title="Google cloud platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/>
-    
     <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     
     
@@ -53,6 +52,7 @@
 ## 📈 My Github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelpariente&theme=dark&show_icons=true" alt="samuelpariente" />  
+    
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpariente&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
