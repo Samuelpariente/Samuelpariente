@@ -38,7 +38,7 @@
     <img title="Spyder" src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
     <img title="PyCharm" src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
     <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" width="130px"/>
-    <img title="Selenium" src="https://icons8.com/icon/35912/selenium.png" width="60px"/>
+    <a href="https://icons8.com/icon/79889/selenium">Selenium icon by Icons8</a>
     <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
     
