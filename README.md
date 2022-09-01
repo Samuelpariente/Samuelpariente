@@ -37,11 +37,12 @@
     <img title="Microsoft Office" src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
     <img title="Spyder" src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
     <img title="PyCharm" src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
-    <img title="Oracle" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/oracle.png" width="110px"/>
     <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" width="130px"/>
+    <img title="Selenium" src="https://icons8.com/icon/35912/selenium" width="60px"/>
     <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
-    <img title="Catia Dassault Systemes" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/catia.png" width="130px"/>   
+    
+    
 </p>
 
 <br>
