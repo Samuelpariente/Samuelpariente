@@ -9,7 +9,7 @@
 
 - 📚 I’m currently learning **Design Pattern & Software Development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**. So watch out for upcoming projects publications !
 
-- :computer:👀 I’m looking for an **Internship of 4 or 5 months** in the DataScience or DataEngineering field, starting April 4th 2022.
+- :computer:👀 I’m looking for an **Internship of 4 or 5 months** in the DataScience or DataEngineering field, starting April 3th 2022.
 
 - ⚡ Fun fact - I sometimes **skydive** when I am not **climbing**.
 
