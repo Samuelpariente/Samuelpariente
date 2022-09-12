@@ -51,10 +51,7 @@
 <br>
 
 ## 📈 My Github stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelpariente&theme=dark&show_icons=true" alt="samuelpariente" />  
-    
- 
+
 <p align="center"> 
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/samuelpariente/count.svg" />
