@@ -5,7 +5,7 @@
 
 ## 🍗 About Me
 
-- ✈️: I’m co-founding a Start-up named Periple to create an app that centralize and personalize tourist trips **Trip and IA**.
+- ✈️: I’m co-founding a Start-up named Periple it aimed to create an app that centralize and personalize tourist trips **Trip and IA**.
 
 - 📚 I’m currently learning **Design Pattern & Software Development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**. So watch out for upcoming projects publications !
 
