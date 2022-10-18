@@ -21,7 +21,7 @@
 ## :chart: Certifications
 <p align="left"> 
     <a href="https://www.cloudskillsboost.google/public_profiles/4cfb0fd0-d23e-4dfb-87b0-1062c4c07ad3">
-    <img title="GCP Cetrification" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/></a>
+    <img title="Google Cloud Platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/></a>
     <a href="https://www.coursera.org/account/accomplishments/verify/DZK54E7RJFYR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
     <img title="Azure" src="https://img.icons8.com/fluency/140/000000/azure-1.png" width="60px"/></a>
     <a href="https://courses.edx.org/certificates/3c7c0f7314364130a95053c0d7c5a54a">
