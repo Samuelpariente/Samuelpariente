@@ -35,7 +35,7 @@
 **Tools**
 
 <p align="left"> 
-    <a href="www.google.com"><img title="Visual Studio" src="https://img.icons8.com/color/96/000000/visual-studio.png" width="60px"/>
+    <link rel="canonical" href="https://google.com/"><img title="Visual Studio" src="https://img.icons8.com/color/96/000000/visual-studio.png" width="60px"/>
     <img title="Anaconda" src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="60px"/>
     <img title="Microsoft Office" src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
     <img title="Spyder" src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
