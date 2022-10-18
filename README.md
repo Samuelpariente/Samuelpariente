@@ -17,10 +17,10 @@
 
 <br>
 
+
+## :chart: Certifications
+
 ## :hammer_and_wrench: Languages and Tools
-
-**Certifications**
-
 
 **Programming Languages**
 
