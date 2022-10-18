@@ -20,7 +20,7 @@
 
 ## :chart: Certifications
 <p align="left"> 
-    <a href="https://linkedin.com/in/samuel-p-09423b135">LinkedIn</a><img title="GCP Cetrification" src="https://img.icons8.com/color/48/000000/google-cloud- platform.png" width="60px"/>
+    <a href="https://linkedin.com/in/samuel-p-09423b135"></a><img title="GCP Cetrification" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/>
     <img title="Anaconda" src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="60px"/>
     <img title="Microsoft Office" src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
  </p>
