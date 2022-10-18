@@ -25,7 +25,7 @@
     <a href="https://www.coursera.org/account/accomplishments/verify/DZK54E7RJFYR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
     <img title="Azure" src="https://img.icons8.com/fluency/140/000000/azure-1.png" width="60px"/></a>
     <a href="https://courses.edx.org/certificates/3c7c0f7314364130a95053c0d7c5a54a">
-    <img title="HarvardX" src="https://github.com/Samuelpariente/Samuelpariente/blob/a0f2e36bb1e76988d1e0d545e5fe9ee38bc3fde3/Images/hx.png" width="60px"/>
+    <img title="HarvardX" src="https://github.com/Samuelpariente/Samuelpariente/blob/a0f2e36bb1e76988d1e0d545e5fe9ee38bc3fde3/Images/hx.png" width="144px"/>
     </a>
  </p>
  
