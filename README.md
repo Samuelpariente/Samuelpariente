@@ -24,7 +24,7 @@
     <img title="GCP Cetrification" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/></a>
     <a href="https://www.coursera.org/account/accomplishments/verify/DZK54E7RJFYR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
     <img title="Azure" src="https://img.icons8.com/fluency/140/000000/azure-1.png" width="60px"/></a>
-    <img title="HarvardX" src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
+    <img title="HarvardX" src="https://github.com/Samuelpariente/Samuelpariente/blob/8c2a8610815c64aea3cd7a00512e488bcbd41e42/Images/hx.png" width="60px"/>
  </p>
  
  
