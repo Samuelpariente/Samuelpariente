@@ -39,7 +39,6 @@
     <img title="Python" src="https://img.icons8.com/color/96/000000/python--v1.png" width="60px"/>
     <img title="SQL" src="https://img.icons8.com/nolan/64/sql.png" width="60px"/>
     <img title="R" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="60px"/>  
-    <img title="PowerBI" src="https://img.icons8.com/color/144/000000/power-bi.png" width="60px"/>
 </p>
 
 **Tools**
@@ -55,6 +54,7 @@
     <img title="Google cloud platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/>
     <img title="SolidWorks" src="https://img.icons8.com/color/144/000000/amazon-web-services.png" width="60px"/>
     <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
+    <img title="PowerBI" src="https://img.icons8.com/color/144/000000/power-bi.png" width="60px"/>
     <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     
     
