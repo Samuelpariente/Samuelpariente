@@ -9,7 +9,7 @@
 
 - 📚 I’m currently learning **Design Pattern & Software Development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**. So watch out for upcoming projects publications !
 
-- :computer:👀 I’m looking for an **Internship of 4 or 5 months** in the DataScience or DataEngineering field, starting April 3th 2022.
+- :computer:👀 I’m in **Internship for 5 months** at Accor in Data scientist team.
 
 - ⚡ Fun fact - I sometimes **skydive** when I am not **climbing**.
 
