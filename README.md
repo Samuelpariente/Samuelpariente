@@ -20,6 +20,8 @@
 
 ## :chart: Certifications
 <p align="left"> 
+    <a href="[https://www.cloudskillsboost.google/public_profiles/4cfb0fd0-d23e-4dfb-87b0-1062c4c07ad3](https://coursera.org/share/5f46bd0533583bb434c73336acc1ce19)">
+    <img title="Google Cloud Platform" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="60px"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/4cfb0fd0-d23e-4dfb-87b0-1062c4c07ad3">
     <img title="Google Cloud Platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/></a>
     <a href="https://www.coursera.org/account/accomplishments/verify/DZK54E7RJFYR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
