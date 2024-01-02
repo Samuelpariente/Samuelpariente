@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Samuel
-<p>A 4th-year Engineering student in DataScience & AI !</p>
+<p>A 5th-year Engineering student in DataScience & AI !</p>
 
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" width="350px" heigth="350px" align='right'>
 
