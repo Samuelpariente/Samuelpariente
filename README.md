@@ -21,7 +21,7 @@
 ## :chart: Certifications
 <p align="left"> 
     <a href="https://coursera.org/share/5f46bd0533583bb434c73336acc1ce19">
-    <img title="GenIA" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F125559383%2F317212851579%2F1%2Foriginal.20210208-232017?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2246%2C2246&s=40aa0fb13fe40ce86241ae7b8fc8caea" width="60px"/></a>
+    <img title="GenIA" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F125559383%2F317212851579%2F1%2Foriginal.20210208-232017?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2246%2C2246&s=40aa0fb13fe40ce86241ae7b8fc8caea" width="144px"/></a>
     <a href="https://www.cloudskillsboost.google/public_profiles/4cfb0fd0-d23e-4dfb-87b0-1062c4c07ad3">
     <img title="Google Cloud Platform" src="https://img.icons8.com/color/144/000000/google-cloud-platform.png" width="60px"/></a>
     <a href="https://www.coursera.org/account/accomplishments/verify/DZK54E7RJFYR?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
