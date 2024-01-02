@@ -9,7 +9,7 @@
 
 - 📚 I’m currently learning **Design Pattern & Software Development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**. So watch out for upcoming projects publications !
 
-- :computer:👀 I’m in **Internship for 5 months** at Accor in Data Scientist team, I am working on Propeos Project, partenarship between CNRS,CEA,IMT.
+- :computer:👀 I made **Internship for 5 months** at Accor in Data Scientist team, I am working on Propeos Project, partenarship between CNRS,CEA,IMT.
 
 - ⚡ Fun fact - I sometimes **skydive** when I am not **climbing**.
 
